@@ -1,0 +1,9 @@
+wwwroot\images\3klogo.png
+wwwroot\index.html
+wwwroot\manifest.webmanifest
+wwwroot\script.js
+wwwroot\style.css
+C:\Users\Kmeni\source\repos\BlazorWebAssembly Standalone App\BlazorWebAssembly Standalone App\wwwroot\manifest.webmanifest
+C:\Users\Kmeni\source\repos\BlazorWebAssembly Standalone App\BlazorWebAssembly Standalone App\wwwroot\index.html
+C:\Users\Kmeni\source\repos\BlazorWebAssembly Standalone App\BlazorWebAssembly Standalone App\wwwroot\script.js
+C:\Users\Kmeni\source\repos\BlazorWebAssembly Standalone App\BlazorWebAssembly Standalone App\wwwroot\style.css
